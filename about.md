@@ -1,8 +1,3 @@
----
-layout: default
-permalink: /csportfolio/about/
----
-
 # cs @ depaul university
 
 #### technical skills: python, java, javascript, golang
