@@ -13,6 +13,12 @@
     {% include head-custom.html %}
   </head>
   <body>
+    <nav>
+      <ul>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/home/">Home</a></li>
+      </ul>
+    </nav>
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
