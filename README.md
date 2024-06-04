@@ -13,7 +13,7 @@ niles north high school (2019-2023)
 - relevant coursework: ap csp, ap csa, ap calculus, advanced app development
 
 ### work experience
-android development @ eel electric solutions & technologies
+android development intern @ eel electric solutions & technologies
 - software development team
 - developed login landing page with kotlin & android studio
 
