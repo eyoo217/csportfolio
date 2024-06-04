@@ -1,3 +1,7 @@
+---
+permalink: /about/
+---
+
 # cs @ depaul university
 
 #### technical skills: python, java, javascript, golang
