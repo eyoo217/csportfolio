@@ -1,39 +1,39 @@
-# CS @ DePaul University
+# cs @ depaul university
 
-#### Technical Skills: Python, Java, JavaScript, Golang
+#### technical skills: python, java, javascript, golang
 
-### Education
-DePaul University (2023-2027)
-- Computer Science + Software Development, BS
-- Relevant Coursework: Discrete Mathematics I & II, Data Structures I & II, Data Analysis
+### education
+depaul university (2023-2027)
+- computer science + software development, bs
+- relevant coursework: discrete mathematics i & ii, data structures i & ii, data analysis
 
-Niles North High School (2019-2023)
-- CyberPatriot Team Founder (1st Place Silver Tier, Rank 9 IL)
-- Coding Club
-- Relevant Coursework: AP CSP, AP CSA, AP Calculus, Advanced App Development
+niles north high school (2019-2023)
+- cyberpatriot team founder (1st place silver tier, rank 9 il)
+- coding club
+- relevant coursework: ap csp, ap csa, ap calculus, advanced app development
 
-### Work Experience
-Android Development @ EEL Electric Solutions & Technologies
-- Software Development Team
-- Developed Login Landing Page With Kotlin & Android Studio
+### work experience
+android development @ eel electric solutions & technologies
+- software development team
+- developed login landing page with kotlin & android studio
 
-Technology Department Intern @ Niles Township D219 
-- Resolved And Answered Support Tickets
-- Conducted Repairs On Student Devices
-- Enrolled 100+ Student Devices Into School Device Database
+technology department intern @ niles township d219 
+- resolved and answered support tickets
+- conducted repairs on student devices
+- enrolled 100+ student devices into school device database
 
-## Projects
-### gigaMAP - Port Scanning Tool
-[Repo Link](https://github.com/eyoo217/gigaMAP)
+## projects
+### gigamap - port scanning tool
+[repo link](https://github.com/eyoo217/gigamap)
 
-- gigaMAP is a port scanner inspired by the nmap scanner that returns any open ports on a network.
-- gigaMAP takes in a website url or an ip address as a parameter and returns open ports and the ports status.
+- gigamap is a port scanner inspired by the nmap scanner that returns any open ports on a network.
+- gigamap takes in a website url or an ip address as a parameter and returns open ports and the ports status.
 - to run, install the main.go file make sure go is installed (you can test this by typing go version) run "go run main.go"
-- now you can scan ports with ease using gigaMAP!
-- Submitted to HackIllinois 24'
+- now you can scan ports with ease using gigamap!
+- submitted to hackillinois 24'
 
-## Links
+## links
 
-- [LinkedIn](https://linkedin.com/in/elotmusk/)
-- [Twitter](https://x.com/elotVAL)
+- [linkedin](https://linkedin.com/in/elotmusk/)
+- [twitter](https://x.com/elotval)
   
