@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /home/
+permalink: /csportfolio/home/
 ---
 
 # Hi, I'm Elliott
